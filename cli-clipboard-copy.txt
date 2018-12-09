@@ -1,0 +1,3 @@
+pipe yout text to:
+xsel -i -b
+to copy it to the clipboard

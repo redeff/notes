@@ -1,0 +1,7 @@
+run:
+sudo fdisk -l
+to list the available drives (usb is usually latest, and is usuallt /dev/sdb1)
+mount /path/to/mount/dir /dev/sdb1
+when done, run
+umount /dev/sdb1
+

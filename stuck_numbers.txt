@@ -1,0 +1,1 @@
+press <num lock> key of <fn> + <num lock>

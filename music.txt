@@ -1,0 +1,3 @@
+run cmus
+:add /path/to/music
+run man cmus for keybindings
